@@ -63,3 +63,4 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
+Thus, associate rules for the banking dataset using Apriori Algorithm is generated.
